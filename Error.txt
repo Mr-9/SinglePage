@@ -1,0 +1,3 @@
+﻿文件下载网址  =>  文件保存路径
+http://www.gzycjf.com/images/mszx.png  =>  D:\软件安装包\防站工具\www.gzycjf.com\picture\mszx.png
+http://www.gzycjf.com/images/ljly.png  =>  D:\软件安装包\防站工具\www.gzycjf.com\picture\ljly.png
